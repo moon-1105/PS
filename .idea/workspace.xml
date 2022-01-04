@@ -2,10 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04cb985d-c2eb-4da6-b88c-7b80ca69dd41" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/입출력/10950.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/입출력/2558.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/입출력/1000.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/1000.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DP/10844.py" beforeDir="false" afterPath="$PROJECT_DIR$/DP/10844.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DP/11726.py" beforeDir="false" afterPath="$PROJECT_DIR$/DP/11726.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DP/11727.py" beforeDir="false" afterPath="$PROJECT_DIR$/DP/11727.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DP/1463.py" beforeDir="false" afterPath="$PROJECT_DIR$/DP/1463.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DP/9095.py" beforeDir="false" afterPath="$PROJECT_DIR$/DP/9095.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/입출력/10818.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/10818.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/입출력/10952.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/10952.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/입출력/10953.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/10953.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/입출력/10991.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/10991.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/입출력/10992.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/10992.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/입출력/11021.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/11021.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/입출력/11022.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/11022.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/입출력/11718.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/11718.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/입출력/11719.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/11719.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/입출력/11720.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/11720.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/입출력/11721.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/11721.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/입출력/1924.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/1924.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/입출력/2438.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/2438.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/입출력/2439.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/2439.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/입출력/2440.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/2440.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/입출력/2441.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/2441.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/입출력/2442.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/2442.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/입출력/2445.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/2445.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/입출력/2446.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/2446.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/입출력/2522.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/2522.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/입출력/2739.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/2739.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/입출력/2741.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/2741.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/입출력/2742.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/2742.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/입출력/8393.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/8393.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,32 +45,39 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="1" />
-          <entry key="py" value="4" />
+          <entry key="py" value="37" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="1" />
-          <entry key="Python" value="4" />
+          <entry key="Python" value="37" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="188" />
+          <entry key="md" value="12" />
+          <entry key="py" value="3024" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="188" />
+          <entry key="Markdown" value="12" />
+          <entry key="Python" value="3024" />
         </counts>
       </usages-collector>
     </session>
@@ -55,45 +89,45 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="266">
-                <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+                <caret line="14" column="55" lean-forward="true" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/입출력/10950.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DP/10844.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            <state relative-caret-position="190">
+              <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/입출력/2558.py">
+        <entry file="file://$PROJECT_DIR$/DP/9095.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-end-column="24" />
+              <caret selection-end-line="1" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/입출력/1000.py">
+        <entry file="file://$PROJECT_DIR$/DP/11727.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+            <state>
+              <caret selection-end-line="1" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/입출력/2557.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DP/11726.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+            <state relative-caret-position="152">
+              <caret line="8" column="23" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="8" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -113,19 +147,49 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/입출력/2557.py" />
         <option value="$PROJECT_DIR$/입출력/1000.py" />
         <option value="$PROJECT_DIR$/입출력/2558.py" />
         <option value="$PROJECT_DIR$/입출력/10950.py" />
+        <option value="$PROJECT_DIR$/입출력/10951.py" />
+        <option value="$PROJECT_DIR$/입출력/10952.py" />
+        <option value="$PROJECT_DIR$/입출력/10953.py" />
+        <option value="$PROJECT_DIR$/입출력/11021.py" />
+        <option value="$PROJECT_DIR$/입출력/11022.py" />
+        <option value="$PROJECT_DIR$/입출력/11718.py" />
+        <option value="$PROJECT_DIR$/입출력/11719.py" />
+        <option value="$PROJECT_DIR$/입출력/11720.py" />
+        <option value="$PROJECT_DIR$/입출력/11721.py" />
+        <option value="$PROJECT_DIR$/입출력/2741.py" />
+        <option value="$PROJECT_DIR$/입출력/2742.py" />
+        <option value="$PROJECT_DIR$/입출력/2739.py" />
+        <option value="$PROJECT_DIR$/입출력/1924.py" />
+        <option value="$PROJECT_DIR$/입출력/8393.py" />
+        <option value="$PROJECT_DIR$/입출력/10818.py" />
+        <option value="$PROJECT_DIR$/입출력/2438.py" />
+        <option value="$PROJECT_DIR$/입출력/2439.py" />
+        <option value="$PROJECT_DIR$/입출력/2440.py" />
+        <option value="$PROJECT_DIR$/입출력/2441.py" />
+        <option value="$PROJECT_DIR$/입출력/2442.py" />
+        <option value="$PROJECT_DIR$/입출력/2445.py" />
+        <option value="$PROJECT_DIR$/입출력/2522.py" />
+        <option value="$PROJECT_DIR$/입출력/2446.py" />
+        <option value="$PROJECT_DIR$/입출력/10991.py" />
+        <option value="$PROJECT_DIR$/입출력/10992.py" />
+        <option value="$PROJECT_DIR$/DP/1463.py" />
+        <option value="$PROJECT_DIR$/DP/11726.py" />
+        <option value="$PROJECT_DIR$/DP/11727.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/DP/9095.py" />
+        <option value="$PROJECT_DIR$/DP/10844.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2505" />
-    <option name="y" value="149" />
-    <option name="width" value="1480" />
-    <option name="height" value="953" />
+    <option name="x" value="2371" />
+    <option name="y" value="168" />
+    <option name="width" value="1401" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -133,6 +197,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PS" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -143,18 +218,7 @@
             <path>
               <item name="PS" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="입출력" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="PS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PS" type="462c0819:PsiDirectoryNode" />
+              <item name="DP" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -174,8 +238,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.10951">
-    <configuration name="1000" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.10844">
+    <configuration name="10844" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -183,11 +247,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/입출력" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/입출력/1000.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DP/10844.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,7 +260,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="10950" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="11726" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -204,11 +268,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/입출력" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/입출력/10950.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DP/11726.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,7 +281,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="10951" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="11727" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -225,11 +289,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/입출력" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/입출력/10951.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DP/11727.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -238,7 +302,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2557" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1463" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -246,11 +310,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/입출력" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/입출력/2557.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DP/1463.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -259,7 +323,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2558" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="9095" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -267,11 +331,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/입출력" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/입출력/2558.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DP/9095.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -281,19 +345,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.2557" />
-      <item itemvalue="Python.1000" />
-      <item itemvalue="Python.2558" />
-      <item itemvalue="Python.10950" />
-      <item itemvalue="Python.10951" />
+      <item itemvalue="Python.1463" />
+      <item itemvalue="Python.11726" />
+      <item itemvalue="Python.11727" />
+      <item itemvalue="Python.9095" />
+      <item itemvalue="Python.10844" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.10951" />
-        <item itemvalue="Python.10950" />
-        <item itemvalue="Python.2558" />
-        <item itemvalue="Python.1000" />
-        <item itemvalue="Python.2557" />
+        <item itemvalue="Python.10844" />
+        <item itemvalue="Python.9095" />
+        <item itemvalue="Python.11727" />
+        <item itemvalue="Python.11726" />
+        <item itemvalue="Python.1463" />
       </list>
     </recent_temporary>
   </component>
@@ -311,23 +375,23 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2505" y="149" width="1480" height="953" extended-state="0" />
+    <frame x="2371" y="168" width="1401" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19001387" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5925059" visible="true" weight="0.20102714" />
+      <window_info id="Structure" order="1" sideWeight="0.40749416" side_tool="true" visible="true" weight="0.20102714" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32967034" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34262297" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39920425" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.24297924" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32967034" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3292683" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -336,18 +400,41 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/입출력/8393.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/입출력/2442.py</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/입출력/2445.py</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/입출력/2446.py</url>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/입출력/10991.py</url>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/11727.py</url>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/입출력/1000.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -358,10 +445,220 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/입출력/1000.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/입출력/2557.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/입출력/10951.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/입출력/10953.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/입출력/10952.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/입출력/11022.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/입출력/11718.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/입출력/11719.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/입출력/11720.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/입출력/11721.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/입출력/2739.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/입출력/2742.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/입출력/2741.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/입출력/10950.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        <state>
+          <caret selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/입출력/1924.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/입출력/8393.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/입출력/10818.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/입출력/2438.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/입출력/2440.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/입출력/2439.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/입출력/2441.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/입출력/2442.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/입출력/2445.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="18" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/입출력/2522.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="14" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/입출력/2446.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/입출력/10992.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/입출력/10991.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/입출력/11021.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DP/1463.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DP/11726.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DP/11727.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -369,16 +666,23 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="266">
-            <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <caret line="14" column="55" lean-forward="true" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/입출력/2557.py">
+    <entry file="file://$PROJECT_DIR$/DP/9095.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        <state>
+          <caret selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DP/10844.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
         </state>
       </provider>
     </entry>
