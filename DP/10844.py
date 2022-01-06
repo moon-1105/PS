@@ -18,6 +18,15 @@ if __name__=="__main__":
 
     # 초기값 설정
     arr[1] = [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+    for i in range(2, N+1):
+        for j in range(0,10):
+            if j not in [0,9]:
+                arr[i][j] = arr[i-1][j+1] + arr[i-1][j-1]
+            if j == 0:
+                arr[i][j] = arr[i-1][j+1]
+            if j == 9:
+                arr[i][j] = arr[i-1][j-1]
+    #print(arr)
+    print(sum(arr[N])%1000000000)
 
 
-    print(arr[N] % 1000000000)
