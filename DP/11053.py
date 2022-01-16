@@ -17,8 +17,10 @@ if __name__=="__main__":
         exit(0)
     arr = [0]*(N+1)
     arr[0] = 1
-    if nums[0] < nums[1]:        arr[1] = 2
-    else:        arr[1] = 1
+    if nums[0] < nums[1]:
+        arr[1] = 2
+    else:
+        arr[1] = 1
 
     for i in range(2, N):
         #print(arr)
@@ -27,6 +29,7 @@ if __name__=="__main__":
             arr[i] = 1
         else:
             arr[i] = val+1
-    print(arr[N-1])
+    #여기를 무조건 마지막 수를 포함하는 걸로 했음..
+    print(max(arr))
 
 
