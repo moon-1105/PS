@@ -12,7 +12,8 @@ if __name__=="__main__":
     N = int(input())
     nums = list(map(int, input().split()))
     if N == 1:
-        print(nums[0])
+        #여기서 프린트 첫번째 인풋 한거 실환가
+        print(1)
         exit(0)
 
     arr = [0]*(N+1)
@@ -38,8 +39,6 @@ if __name__=="__main__":
 
         arr[i] = plus(MaxArr, nums[i])
 
-    #여기를 무조건 마지막 수를 포함하는 걸로 했음..
-    #print(arr)
     ans = 0
     for i in range(0,N):
         ans = max(len(arr[i]), ans)
