@@ -8,6 +8,18 @@ def plus(arr, value):
     tmp.append(value)
     return tmp
 
+def isBitonic(arr, num):
+    # arr 에 num을 추가했을 때, Bitonic이 아닐 경우가 있으면
+    #return False
+
+    return True
+
+def isBitonic(arr):
+    # arr이 Bitonic이 아닐 경우가 있으면
+    #return False
+
+    return True
+
 if __name__=="__main__":
     N = int(input())
     nums = list(map(int, input().split()))
@@ -28,10 +40,8 @@ if __name__=="__main__":
         # print("#", i, arr)
         MaxArr = []
         for j in range(0, i):
-            # 바이토닉이 맞는지는 판단하기.. 모든 수열 다 구해야하나?
-            # 이전거보다 크거나
-            # 젤 큰거보다 작거나
-            if min(arr[j]) > nums[i]:
+            # 바이토닉이 맞는지는 판단하기..
+            if isBitonic(arr[j],nums[i]):
                 # 길이가 긴지
                 if len(arr[j]) > len(MaxArr):
                     MaxArr = arr[j].copy()
@@ -43,5 +53,6 @@ if __name__=="__main__":
 
     ans = 0
     for i in range(0, N):
-        ans = max(len(arr[i]), ans)
+        if isBitonic(arr[i]):
+            ans = max(len(arr[i]), ans)
     print(ans)
