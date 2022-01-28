@@ -11,13 +11,32 @@ def plus(arr, value):
 def isBitonic(arr, num):
     # arr 에 num을 추가했을 때, Bitonic이 아닐 경우가 있으면
     #return False
+    tmpArr = plus(arr,num)
+    mid = tmpArr.indexof(max(tmpArr))
+    small = tmpArr[:mid]
+    big = tmpArr[mid:]
+    for i in range(1, len(small)):
+        if small[i - 1] > small[i]:
+            return False
+    for i in range(1, len(big)):
+        if big[i - 1] < big[i]:
+            return False
+    return True
 
     return True
 
 def isBitonic(arr):
     # arr이 Bitonic이 아닐 경우가 있으면
     #return False
-
+    mid = arr.indexof(max(arr))
+    small = arr[:mid]
+    big = arr[mid:]
+    for i in range(1,len(small)):
+        if small[i-1] > small[i]:
+            return False
+    for i in range(1,len(big)):
+        if big[i-1] < big[i]:
+            return False
     return True
 
 if __name__=="__main__":
