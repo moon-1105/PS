@@ -12,7 +12,7 @@ def isBitonic(arr, num):
     # arr 에 num을 추가했을 때, Bitonic이 아닐 경우가 있으면
     #return False
     tmpArr = plus(arr,num)
-    mid = tmpArr.indexof(max(tmpArr))
+    mid = tmpArr.index(max(tmpArr))
     small = tmpArr[:mid]
     big = tmpArr[mid:]
     for i in range(1, len(small)):
@@ -25,10 +25,10 @@ def isBitonic(arr, num):
 
     return True
 
-def isBitonic(arr):
+def finalCheck(arr):
     # arr이 Bitonic이 아닐 경우가 있으면
     #return False
-    mid = arr.indexof(max(arr))
+    mid = arr.index(max(arr))
     small = arr[:mid]
     big = arr[mid:]
     for i in range(1,len(small)):
@@ -72,6 +72,6 @@ if __name__=="__main__":
 
     ans = 0
     for i in range(0, N):
-        if isBitonic(arr[i]):
+        if finalCheck(arr[i]):
             ans = max(len(arr[i]), ans)
     print(ans)
