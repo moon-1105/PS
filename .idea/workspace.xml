@@ -2,137 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04cb985d-c2eb-4da6-b88c-7b80ca69dd41" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/문자열처리/10808.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DP/10844.py" beforeDir="false" afterPath="$PROJECT_DIR$/DP/10844.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DP/11726.py" beforeDir="false" afterPath="$PROJECT_DIR$/DP/11726.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DP/11727.py" beforeDir="false" afterPath="$PROJECT_DIR$/DP/11727.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DP/1463.py" beforeDir="false" afterPath="$PROJECT_DIR$/DP/1463.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DP/9095.py" beforeDir="false" afterPath="$PROJECT_DIR$/DP/9095.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/입출력/10818.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/10818.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/입출력/10952.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/10952.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/입출력/10953.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/10953.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/입출력/10991.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/10991.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/입출력/10992.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/10992.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/입출력/11021.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/11021.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/입출력/11022.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/11022.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/입출력/11718.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/11718.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/입출력/11719.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/11719.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/입출력/11720.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/11720.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/입출력/11721.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/11721.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/입출력/1924.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/1924.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/입출력/2438.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/2438.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/입출력/2439.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/2439.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/입출력/2440.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/2440.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/입출력/2441.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/2441.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/입출력/2442.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/2442.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/입출력/2445.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/2445.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/입출력/2446.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/2446.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/입출력/2522.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/2522.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/입출력/2739.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/2739.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/입출력/2741.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/2741.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/입출력/2742.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/2742.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/입출력/8393.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력/8393.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DP/11054.py" beforeDir="false" afterPath="$PROJECT_DIR$/DP/11054.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="2083743606">
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="md" value="1" />
-          <entry key="py" value="37" />
-          <entry key="xml" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Markdown" value="1" />
-          <entry key="Python" value="37" />
-          <entry key="XML" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="6" />
-          <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.13" value="1" />
-          <entry key="project.open.time.14" value="1" />
-          <entry key="project.open.time.18" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="6" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="md" value="12" />
-          <entry key="py" value="3024" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Markdown" value="12" />
-          <entry key="Python" value="3024" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="266">
-                <caret line="14" column="55" lean-forward="true" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DP/10844.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DP/9095.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="1" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DP/11727.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="1" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DP/11726.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="23" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="8" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -182,21 +60,41 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/DP/9095.py" />
         <option value="$PROJECT_DIR$/DP/10844.py" />
+        <option value="$PROJECT_DIR$/DP/11055.py" />
+        <option value="$PROJECT_DIR$/DP/11054.py" />
+        <option value="$USER_HOME$/Downloads/insertData.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="2371" />
-    <option name="y" value="168" />
-    <option name="width" value="1401" />
-    <option name="height" value="744" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1943" />
+    <option name="height" value="1103" />
+  </component>
+  <component name="ProjectId" id="2Aw61M3bmTmOkpsmxkaY5XJnvom" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="PS" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -208,37 +106,39 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="PS" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-            <path>
-              <item name="PS" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="DP" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Python.10844">
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Python.10808">
+    <configuration name="10808" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\MoonSY\PycharmProjects\pythonProject\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/문자열처리" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/문자열처리/10808.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="10844" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PS" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -252,27 +152,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DP/10844.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="11726" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PS" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DP" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DP/11726.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -302,27 +181,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1463" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PS" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DP" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DP/1463.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="9095" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PS" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -344,23 +202,45 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="insertData" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/insertData.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.1463" />
-      <item itemvalue="Python.11726" />
+      <item itemvalue="Python.10844" />
       <item itemvalue="Python.11727" />
       <item itemvalue="Python.9095" />
-      <item itemvalue="Python.10844" />
+      <item itemvalue="Python.insertData" />
+      <item itemvalue="Python.10808" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.10808" />
+        <item itemvalue="Python.insertData" />
         <item itemvalue="Python.10844" />
         <item itemvalue="Python.9095" />
         <item itemvalue="Python.11727" />
-        <item itemvalue="Python.11726" />
-        <item itemvalue="Python.1463" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -375,30 +255,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2371" y="168" width="1401" height="744" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1295" height="735" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5925059" visible="true" weight="0.20102714" />
-      <window_info id="Structure" order="1" sideWeight="0.40749416" side_tool="true" visible="true" weight="0.20102714" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5598007" visible="true" weight="0.16534181" />
+      <window_info id="Structure" order="1" sideWeight="0.44019935" side_tool="true" visible="true" weight="0.16534181" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34262297" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5857143" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39920425" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.14341085" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3292683" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -662,16 +538,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="266">
-            <caret line="14" column="55" lean-forward="true" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DP/9095.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -686,5 +552,75 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="114">
+            <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DP/11054.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DP/11722.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="44" column="14" selection-start-line="13" selection-start-column="2" selection-end-line="44" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DP/11055.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="46" column="14" selection-start-line="17" selection-start-column="4" selection-end-line="46" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/insertData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="95" column="53" selection-start-line="95" selection-start-column="53" selection-end-line="95" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DP/11053.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
