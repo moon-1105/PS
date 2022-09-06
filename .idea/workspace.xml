@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04cb985d-c2eb-4da6-b88c-7b80ca69dd41" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/문자열처리/10808.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DP/2133.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DP/11054.py" beforeDir="false" afterPath="$PROJECT_DIR$/DP/11054.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +116,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Python.10808">
+  <component name="RunManager" selected="Python.2133">
     <configuration name="10808" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PS" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,19 +159,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11727" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2133" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\MoonSY\PycharmProjects\pythonProject\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DP" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DP/11727.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DP/2133.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -225,18 +224,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.10844" />
-      <item itemvalue="Python.11727" />
       <item itemvalue="Python.9095" />
       <item itemvalue="Python.insertData" />
       <item itemvalue="Python.10808" />
+      <item itemvalue="Python.2133" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2133" />
         <item itemvalue="Python.10808" />
         <item itemvalue="Python.insertData" />
         <item itemvalue="Python.10844" />
         <item itemvalue="Python.9095" />
-        <item itemvalue="Python.11727" />
       </list>
     </recent_temporary>
   </component>
@@ -302,6 +301,11 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/DP/11727.py</url>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DP/2133.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
