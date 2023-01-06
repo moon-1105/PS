@@ -1,9 +1,11 @@
+from queue import PriorityQueue
+
 if __name__=="__main__":
     N = int(input())
-    arr = []
+    que = PriorityQueue()
     for _ in range(N):
-        arr.append(int(input()))
-    arr.sort()
+        que.put(int(input()))
 
-    for ele in arr:
-        print(ele)
+    while not que.empty() :
+        val = que.get()
+        print(val)
